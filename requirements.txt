@@ -1,0 +1,17 @@
+ultralytics==8.3.135
+opencv-python==4.13.0.92
+torch==2.13.0
+torchvision==0.28.0
+supervision==0.30.1
+boxmot==23.0.0
+streamlit
+plotly
+scikit-learn
+filterpy
+timm
+lap
+scipy
+numpy
+matplotlib
+pandas
+tqdm

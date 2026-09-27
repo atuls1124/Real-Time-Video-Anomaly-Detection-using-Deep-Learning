@@ -1,0 +1,6 @@
+# MOT17-YOLO for YOLO11
+path: C:/Users/anoop/Desktop/project/anomaly detection/data/MOT17-YOLO
+train: images/train
+val: images/val
+nc: 1
+names: ['person']
